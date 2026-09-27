@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+.venv/
+.env
+.DS_Store
+.pytest_cache/
+.idea/
+.vscode/
+/backend/.venv/
+/streamlit_app/.venv/
+.pytest_cache/
+/.mypy_cache
+*.sqlite3
+/.streamlit/

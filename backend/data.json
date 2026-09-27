@@ -1,0 +1,71 @@
+[
+  {
+    "id": "m1",
+    "title": "Project Kickoff",
+    "date": "2026-09-01",
+    "participants": [
+      {
+        "name": "Alice"
+      },
+      {
+        "name": "Bob"
+      }
+    ],
+    "transcript": "Alice: Welcome everyone. We will discuss milestones. Bob: We need to finalize scope.",
+    "summary": "Kickoff for project. Discussed milestones and scope.",
+    "decisions": [
+      "Agree on scope v1"
+    ],
+    "action_items": [
+      {
+        "text": "Draft scope doc",
+        "owner": "Alice",
+        "deadline": "2026-09-10"
+      }
+    ],
+    "analytics": {
+      "duration_minutes": 45,
+      "speaker_count": 2
+    }
+  },
+  {
+    "id": "m2",
+    "title": "Design Review",
+    "date": "2026-09-10",
+    "participants": [
+      {
+        "name": "Carol"
+      },
+      {
+        "name": "Dave"
+      }
+    ],
+    "transcript": "Carol: Reviewed diagrams. Dave: We should refactor module A.",
+    "summary": "Reviewed design diagrams; decision to refactor module A.",
+    "decisions": [
+      "Refactor module A"
+    ],
+    "action_items": [
+      {
+        "text": "Create refactor plan",
+        "owner": "Dave",
+        "deadline": "2026-09-20"
+      }
+    ],
+    "analytics": {
+      "duration_minutes": 60,
+      "speaker_count": 2
+    }
+  },
+  {
+    "id": "m11826fa9",
+    "title": "Follow-up",
+    "date": "2026-09-15",
+    "participants": [],
+    "transcript": "This meeting will finalize scope and assign tasks to Alice\n",
+    "summary": "",
+    "decisions": [],
+    "action_items": [],
+    "analytics": {}
+  }
+]
